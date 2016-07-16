@@ -42,7 +42,11 @@
  to build against the default build of wxWidgets (the one listed as 'default'
  by wx-config --list). Type "./configure --help" for more info.
 
-
+ To run the sample program type
+ 
+ cd sample
+ ./wxFreeChartDemo_dll
+ 
 
  ChangeLog
  ---------
